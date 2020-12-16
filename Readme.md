@@ -1,4 +1,4 @@
-
+# MLP
 ****
 ## Overview
 Multilayer perceptron is field of artificial neural networks ,which works in feedforward mechanism, Neural networks are simplified versions of the human brain
@@ -111,8 +111,7 @@ for hidden layer:
 
 dZ=A-Y, The shape of A and Y should be same if A=[class1 class2 class3 class4] ,then also Y=[class1 class2 class3 class4] ,in order to get series(all sample output class(Y))into this ,we'll use [one hot endcoding](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html). 
 
-
-Uncomment the lines in [t_mlp.ipynb](t_mlp.ipynb) in training part to take input for number of hidden layer,number of neurons in each hidden layer, activation used for a particular layer.
+Uncomment the lines in [t_mlp.ipynb](t_mlp.ipynb) in training part to take input for number of hidden layer,number of neurons in each hidden layer, activation used for a particular layer. If one does not input any hidden layer the model would work as single layer perceptron.
 
 
 
