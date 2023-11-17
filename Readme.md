@@ -1,4 +1,4 @@
-# MLP
+# Multilayer perceptron(MLP)
 ****
 ## Overview
 Multilayer perceptron is field of artificial neural networks ,which works in feedforward mechanism, Neural networks are simplified versions of the human brain
@@ -11,7 +11,7 @@ _____
 MLP model :
 
 <p align="center">
-  <img width="600" height="300" src="img/neurons.jpg">
+  <img width="600" height="300" src="./img/neurons.jpg">
 </p>
 <p align="center"><strong>FIGURE 1:</strong> NN layer.<p align="center">
 The neurons are arranged in different
